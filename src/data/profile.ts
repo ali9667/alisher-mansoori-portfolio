@@ -23,8 +23,9 @@ export const profile = {
     cgpa: '7.8 / 10',
   },
   achievements: [
-    '800+ DSA problems solved',
-    '2 hackathon projects shipped under 24–48 hour constraints',
-    'Self-published author of “The Silence After”',
-  ],
+  '800+ DSA problems solved',
+  'HACKWITHINFY — SPECIALIST PROGRAMMER (L3) QUALIFIER — Cleared HackWithInfy Round 1 & 2 and advanced to the next stage.',
+  '2 hackathon projects shipped under 24–48 hour constraints',
+  'Self-published author of “The Silence After”',
+],
 }
