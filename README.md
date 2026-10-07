@@ -9,7 +9,7 @@ npm run dev        # development
 npm run build      # type-check + production build
 npm run preview    # serve dist/
 ```
-Deploy `dist/` to Netlify/Vercel. `public/_redirects` handles SPA routing on Netlify (Vercel needs a rewrite to `/index.html`).
+Deploy `dist/` to Vercel. `public/_redirects` handles SPA routing on Netlify (Vercel needs a rewrite to `/index.html`).
 
 ## Structure
 `src/components` (Nav, Cursor, Reveal/Mask, ProjectCard, ArchDiagram, Bits) · `src/sections` (Hero, Work, Service, Experience, Toolkit, Contact) · `src/pages` (Home, Project) · `src/data` (profile, projects, services, experience, skills) · `src/hooks/cursor.ts` (shared motion values + easing) · `src/styles/global.css`.
