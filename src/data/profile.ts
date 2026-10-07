@@ -1,0 +1,30 @@
+export const profile = {
+  name: 'Alisher Mansoori',
+  first: 'ALISHER',
+  last: 'MANSOORI',
+  roles: ['Software Engineer', 'Full-Stack Developer', 'Backend Engineer'],
+  location: 'Ghaziabad, Uttar Pradesh, India',
+  blurb: 'I build reliable, scalable software systems with a focus on backend engineering, distributed systems, security, and modern full-stack applications.',
+  status: 'OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES',
+  resume: '/resume.pdf',
+  email: 'alishermansoori9@gmail.com',
+  phone: '+91 9667834132',
+  socials: [
+    { label: 'GitHub', href: 'https://github.com/ali9667' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/alisher-mansoori/' },
+    { label: 'LeetCode', href: 'https://leetcode.com/u/alisher_mansoori/' },
+  ],
+  wattpad: 'https://www.wattpad.com/story/406946968-the-silence-after',
+  education: {
+    school: 'Ajay Kumar Garg Engineering College (AKGEC)',
+    degree: 'B.Tech — Computer Science & Engineering',
+    spec: 'Specialization: Data Science',
+    duration: 'September 2023 – May 2027',
+    cgpa: '7.8 / 10',
+  },
+  achievements: [
+    '800+ DSA problems solved',
+    '2 hackathon projects shipped under 24–48 hour constraints',
+    'Self-published author of “The Silence After”',
+  ],
+}
