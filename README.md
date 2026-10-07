@@ -30,7 +30,7 @@ Measured from the reference recording (10 fps frame analysis): section content s
 Semantic headings/nav, keyboard-reachable cards (links) and accordions (buttons with `aria-expanded`), visible focus rings, alt text, tablist semantics for filters.
 
 ## Resume
-The hero and contact buttons link to `/resume.pdf`. **No resume file was supplied** — put your PDF at `public/resume.pdf` (the hero button downloads it, the contact button opens it).
+The hero and contact buttons link to `/resume.pdf`. 
 
 ## Project detail content
 Each project page renders `sections` from `src/data/projects.ts` (backend, data, security, concurrency, testing, deployment). `challenges` and `tradeoffs` are optional fields that appear only when filled in; none were provided, so none are shown.
